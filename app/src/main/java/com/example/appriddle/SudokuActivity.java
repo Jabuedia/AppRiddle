@@ -10,5 +10,6 @@ public class SudokuActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sudoku);
+        getSupportActionBar().hide(); // Esconder la action bar asquerosa
     }
 }
