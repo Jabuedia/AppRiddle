@@ -13,7 +13,7 @@ public class SplashActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-        getSupportActionBar().hide(); // Esconder la action bar asquerosa
+        //getSupportActionBar().hide(); // Esconder la action bar asquerosa
 
         TimerTask tarea = new TimerTask() {
             @Override
@@ -25,7 +25,7 @@ public class SplashActivity extends AppCompatActivity {
             };
             Timer tiempo = new Timer();
 
-            tiempo.schedule(tarea,3000);
+            tiempo.schedule(tarea,5000);
 
 
         }
