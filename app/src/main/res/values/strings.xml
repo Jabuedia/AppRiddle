@@ -3,4 +3,14 @@
     <string name="title_home">Partida</string>
     <string name="title_dashboard">Clasificacion</string>
     <string name="title_notifications">Usuario</string>
+    <string name="de_grupo7">De \nGrupo 07</string>
+
+    <!--Botones-->
+    <string name="nuevaPartida">Nueva Partida</string>
+    <string name="reanudar">Reanudar Partida</string>
+    <string name="dificultadFacil">Dificultad: Facil</string>
+    <string name="dificultadMedia">Dificultad: Media</string>
+    <string name="dificultadExperto">Dificultad: Experto</string>
+    <string name="dificultadDios">Dificultad: Dios</string>
+
 </resources>

@@ -11,3 +11,6 @@ Agregar un archivos local.properties y escribir las siguiente linea
 sdk.dir=C:\\Users\\USERNAME\\AppData\\Local\\Android\\sdk
 
 Reemplazar USERNAME con tu nombre de usuario.
+
+background por defecto
+android:background="?android:attr/windowBackground"
