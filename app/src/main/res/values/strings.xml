@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">AppRiddle</string>
     <string name="title_home">Partida</string>
-    <string name="title_dashboard">Tabla Puntos</string>
+    <string name="title_dashboard">Clasificacion</string>
     <string name="title_notifications">Usuario</string>
 </resources>
