@@ -58,7 +58,10 @@ public class HomeFragment extends Fragment {
         btnPartida.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-              
+              View v = inflater.inflate(R.layout.fragment_home,container,false);
+
+              Intent intent = new Intent(getActivity(),SudokuActivity.class);
+              startActivity(intent);
             }
         });
         return root;
