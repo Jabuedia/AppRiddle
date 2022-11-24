@@ -4,7 +4,7 @@
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/azulRubik</item>
         <item name="colorPrimaryVariant">@color/azulFondoRubik</item>
-        <item name="colorOnPrimary">@color/doradoRubik</item>
+        <item name="colorOnPrimary">@color/white</item>
 
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
