@@ -12,5 +12,6 @@
     <string name="dificultadMedia">Dificultad: Media</string>
     <string name="dificultadExperto">Dificultad: Experto</string>
     <string name="dificultadDios">Dificultad: Dios</string>
+    <string name="atras">x</string>
 
 </resources>
