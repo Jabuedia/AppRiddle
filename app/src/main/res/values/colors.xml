@@ -9,6 +9,8 @@
     <color name="white">#FFFFFFFF</color>
 
     <!-- Colores personalizados imagen rubik -->
+    <color name="rojodef">#BF1717</color>
+    <color name="rojoOsc">#731A1A</color>
     <color name="azulFondoRubik">#081826</color>
     <color name="azulRubik">#4E8AD9</color>
     <color name="verdeRubik">#048C73</color>

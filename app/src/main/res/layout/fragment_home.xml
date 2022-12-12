@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/azulFondoRubik"
+    android:background="@color/white"
     tools:context=".ui.home.HomeFragment">
 
     <Button
@@ -12,6 +12,7 @@
         android:layout_width="197dp"
         android:layout_height="53dp"
         android:layout_marginBottom="68dp"
+        android:fontFamily="sans-serif-smallcaps"
         android:text="@string/dificultadFacil"
         android:textAlignment="center"
         android:textStyle="bold"
@@ -24,10 +25,21 @@
         android:layout_width="197dp"
         android:layout_height="53dp"
         android:layout_marginBottom="132dp"
+        android:fontFamily="sans-serif-smallcaps"
         android:text="@string/nuevaPartida"
         android:textAlignment="center"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="409dp"
+        android:layout_height="732dp"
+        android:src="@drawable/fondoapp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

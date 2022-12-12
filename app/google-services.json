@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531563879289",
+    "project_id": "proyecto-riddle",
+    "storage_bucket": "proyecto-riddle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531563879289:android:7efee6e029ff3166cd2da8",
+        "android_client_info": {
+          "package_name": "com.example.appriddle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531563879289-5uqaame6jj572dp9il1noa8qotfpv1qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhWUyLIvhHwCAHtj08yBb1pjWjRKK3xkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531563879289-5uqaame6jj572dp9il1noa8qotfpv1qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

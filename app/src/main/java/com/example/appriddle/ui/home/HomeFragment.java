@@ -6,16 +6,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-
-
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
-
-
-import com.example.appriddle.MainActivity;
 import com.example.appriddle.R;
-
-import com.example.appriddle.SplashActivity;
 import com.example.appriddle.SudokuActivity;
 import com.example.appriddle.databinding.FragmentHomeBinding;
 

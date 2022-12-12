@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">AppRiddle</string>
+    <string name="app_name">APPRIDDLE</string>
     <string name="title_home">Partida</string>
     <string name="title_dashboard">Clasificacion</string>
     <string name="title_notifications">Usuario</string>
-    <string name="de_grupo7">De \nGrupo 07</string>
+    <string name="de_grupo7">DE \nGRUPO 07</string>
 
     <!--Botones-->
     <string name="nuevaPartida">Nueva Partida</string>
